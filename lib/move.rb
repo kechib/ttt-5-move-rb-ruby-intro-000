@@ -10,4 +10,4 @@ def update_array_at_with(array, index, value)
   array[index] = value
 end
 
-update_array_at_with( "#{board[0 - 8]}" 0, "X")
+update_array_at_with( "#{board[0 - 8]}" O, "X")
