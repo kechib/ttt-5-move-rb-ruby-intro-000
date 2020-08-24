@@ -12,5 +12,5 @@ input.to_i - 1
 end
 
 board = [ "   ", "  ", "   "]
-def move(board, index = O, value = "X")
+def move(board, index = 0, value = "X")
 end
