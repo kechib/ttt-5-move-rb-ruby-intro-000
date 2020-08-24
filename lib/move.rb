@@ -17,4 +17,5 @@ input.to_i - 1
 end
 
 def move(board, index, value = "X")
+
 end
