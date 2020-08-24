@@ -13,4 +13,5 @@ end
 
 def input_to_index(input)
 binding.pry
+input.to_i
 end
